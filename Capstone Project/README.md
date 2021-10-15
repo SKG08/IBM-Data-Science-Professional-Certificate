@@ -10,4 +10,3 @@ Author:
 Soumya Kanti Guha
 
 
-[Coursera V72DW4BAU2GR.pdf](https://github.com/SKG08/IBM-Data-Science-Professional-Certificate/files/7352287/Coursera.V72DW4BAU2GR.pdf)
